@@ -10,9 +10,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['573147616444', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['593968585383'], ['5492266466080'], ['5492266613038'], ['5491155983299'], ['595986172767'], ['5492964650915'], ['51948705559']]
-global.mods = [] 
-global.prems = []
+global.owner = [['212681951915', 'ᗩᒪI ᑎᗩᖴIՏ☘', true], ['212681951915']]
+global.mods = ['212681951915'] 
+global.prems = ['212681951915']
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
@@ -27,7 +27,7 @@ global.lenguajeGB = es
 
 //---------[ APIS GLOBAL ]---------
 
-global.openai_key = 'sk-...OzYy' /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
+global.openai_key = 'sk-proj-oCQw5REaCtjAfj9ifxm0T3BlbkFJAL9Q7BOLyILxYefO659e' /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW' /* Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings */
 global.Key360 = ['964f-0c75-7afc']//key de violetics
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']
@@ -36,7 +36,7 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = 'GataDios'
+global.lolkeysapi = 'TOᖇI᙭ᗷOT-ᗰᗪ☘'
 global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 
@@ -65,7 +65,7 @@ global.APIKeys = {'https://api.xteam.xyz': `${keysxteam}`,
 'https://api.itsrose.site': 'Rs-Zeltoria',
 'https://api-xcoders.site': 'Frieren' }
 
-global.mods = [] 
+global.mods = ['212681951915'] 
 global.cheerio = cheerio
 global.fs = fs
 global.fetch = fetch
@@ -74,28 +74,28 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = 'TOᖇI᙭ᗷOT-ᗰᗪ☘'
+global.author = 'TOᖇI᙭ᗷOT-ᗰᗪ☘'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'TOᖇI᙭ᗷOT-ᗰᗪ☘'
 global.vs = '1.5.7'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
+global.yt = 'https://www.youtube.com/alinafis'
+global.tiktok = 'tiktok.com/@alinafis284'
+global.md = 'https://github.com/Alinafis21'
+global.fb = 'https://www.facebook.com/alinafis0'
+global.face = 'https://www.facebook.com'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
-global.nn = 'https://chat.whatsapp.com/HNDVUxHphPzG3cJHIwCaX5' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.bot = 'Wa.me/573147616444'
+global.nna = 'https://chat.whatsapp.com/D2de6nneesZ00iVsserdYE' //Update
+global.nn = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' //Grupo 1
+global.nnn = '' //Grupo 2
+global.nnnt = '' //Grupo del Colaboracion
+global.nnnt2 = '' // Grupo COL 2
+global.nnntt = '' //Grupo COL 3
+global.nnnttt = '' //enlace lolibot
+global.nnntttt = '' //Grupo ayuda sobre el bot
+global.bot = 'Wa.me/212681951915'
 global.asistencia = `${fb}`
 global.redes = [nna, yt, nn, md, tiktok, fb, nnn, face]
 
@@ -113,11 +113,11 @@ global.img = [imagen, imagen1, imagen2, imagen3, imagen4]
 
 //------------------------[ Info | Datos ]---------------------------
 
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.waittttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▬*'
+global.wait = '*⌛ _جاري تحميل..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _جاري تحميل..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _جاري تحميل..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _جاري تحميل..._ ▬▬▬▬▬▬▭*'
+global.waittttt = '*⌛ _جاري تحميل..._ ▬▬▬▬▬▬▬*'
 global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
 global.resultado = rg
 global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
